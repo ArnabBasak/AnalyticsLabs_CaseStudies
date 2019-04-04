@@ -1,0 +1,51 @@
+ID,Location,Gender,age,Martial_Status,NumberOfDependents,Own_House,No_Years_address
+4532,"Gandhinagar,Gujarat",0,39,Single,1,1,3
+148736,"Hyderabad,Andhra Pradesh",0,52,Married,0,0,3
+95965,"Shimla,Himachal Pradesh",0,62,Married,0,0,2
+61759,"Srinagar,JK",0,42,Single,1,1,1
+49806,"Imphal,Manipur",0,41,Single,1,0,3
+139942,"Srinagar,JK",0,59,Single,0,0,2
+131136,"Aizawl,Mizoram",0,37,Single,3,1,1
+87969,"Kohima,Nagaland",1,63,Married,1,0,2
+124554,"Bhopal,Madhya Pradesh",0,59,Single,0,0,2
+77997,"Srinagar,JK",1,55,Single,0,1,3
+36272,"Gandhinagar,Gujarat",0,47,Single,0,1,3
+126015,"Patna,Bihar",0,68,Single,0,1,2
+603,"Raipur,Chhattisgarh",1,39,Single,1,0,3
+3643,"Shimla,Himachal Pradesh",0,63,Single,#N/A,1,2
+29132,"Thiruvananthapuram,Kerala",0,63,Single,0,0,1
+86255,"Raipur,Chhattisgarh",1,76,Single,0,0,1
+146493,"Ranchi,Jharkhand",1,36,Single,1,1,1
+109903,"Shimla,Himachal Pradesh",0,43,Single,1,1,2
+45050,"Aizawl,Mizoram",0,34,Single,0,0,3
+83674,"Kolkata,West Bengal",0,22,Single,#N/A,0,1
+85299,"Bhopal,Madhya Pradesh",0,46,Single,0,1,3
+54012,"Chandigarh,Haryana",0,68,Married,0,0,3
+56661,"Shillong,Meghalaya",0,22,Single,0,0,1
+37592,"Srinagar,JK",0,58,Married,1,0,1
+34189,"Jammu,JK",0,80,Single,1,0,2
+1482,"Srinagar,JK",0,53,Single,0,0,1
+71634,"Ranchi,Jharkhand",0,30,Single,0,1,3
+46958,"Bhubaneswar,Odisha(Orissa)",1,49,Married,3,0,3
+26404,"Kolkata,West Bengal",0,33,Married,0,1,3
+18688,"Ranchi,Jharkhand",0,59,Single,1,0,3
+16000001,"Gandhinagar,Gujarat",0,47,Married,0,1,3
+16000002,"Patna,Bihar",0,68,Single,0,1,2
+16000003,"Raipur,Chhattisgarh",1,39,Single,1,0,3
+16000004,"Shimla,Himachal Pradesh",0,63,Married,0,1,2
+16000005,"Thiruvananthapuram,Kerala",0,63,Single,0,0,1
+16000006,"Raipur,Chhattisgarh",1,76,Single,0,0,1
+16000007,"Ranchi,Jharkhand",1,36,Single,1,1,1
+16000008,"Shimla,Himachal Pradesh",0,43,Single,1,1,2
+16000009,"Aizawl,Mizoram",0,34,Single,0,0,2
+16000010,"Kolkata,West Bengal",0,22,Single,1,0,1
+16000011,"Bhopal,Madhya Pradesh",0,46,Single,0,1,3
+16000012,"Chandigarh,Haryana",0,68,Single,0,0,2
+16000013,"Shillong,Meghalaya",0,22,Single,0,0,1
+16000014,"Srinagar,JK",0,58,Married,1,0,1
+16000015,"Jammu,JK",0,80,Single,1,0,2
+16000016,"Srinagar,JK",0,53,Single,0,0,1
+16000017,"Ranchi,Jharkhand",0,30,Single,0,1,2
+16000018,"Bhubaneswar,Odisha(Orissa)",1,49,Married,3,0,3
+16000019,"Kolkata,West Bengal",0,33,Married,0,1,1
+16000020,"Ranchi,Jharkhand",0,59,Married,1,0,3
